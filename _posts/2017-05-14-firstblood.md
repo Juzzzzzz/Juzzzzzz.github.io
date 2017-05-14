@@ -6,8 +6,10 @@ categories: 日志
 tags:  Blog
 ---
 
-
 ![](http://ooyw340iz.bkt.clouddn.com/chengdu1705/tsm.JPG?imageMogr2/auto-orient/thumbnail/200000@/format/png/blur/1x0/quality/75|imageslim)
+![](http://ooyw340iz.bkt.clouddn.com/chengdu1705/tsm.JPG?imageMogr2/auto-orient/thumbnail/200000@/format/png/blur/1x0/quality/75%imageslim)
+![](http://ooyw340iz.bkt.clouddn.com/chengdu1705/tsm.JPG?imageMogr2/auto-orient/thumbnail/200000@/format/png/blur/1x0/quality/75|imageslim)
+
 
 　　今天终于把`GitHub`博客弄好了，中途虽遇到很多问题但终于是能用了，感谢[Yonsm](https://github.com/Yonsm/NET)和[hustcat](https://github.com/hustcat/hustcat.github.io)。
 
