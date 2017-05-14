@@ -6,7 +6,7 @@ categories: 日志
 tags:  Blog
 ---
 
-![ ](http://ooyw340iz.bkt.clouddn.com/chengdu1705/甜水面.JPG)
+![ ](http://ooyw340iz.bkt.clouddn.com/chengdu1705/甜水面.JPG?imageMogr2/auto-orient/thumbnail/200000@/format/png/blur/1x0/quality/75|imageslim)
 
 
 
