@@ -6,7 +6,7 @@ layout: default
   <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
 </span>
 {% if page.categories.size != 0 %}
- | 
+ |
 <span class="categories">
   分类
   {% for cat in page.categories %}
@@ -15,7 +15,7 @@ layout: default
 </span>
 {% endif %}
 {% if page.tags.size != 0 %}
- | 
+ |
 <span class="tags">
   标签
   {% for tag in page.tags %}
@@ -37,5 +37,4 @@ layout: default
 </section>
 {% include jiathis.md %}
 {% include comments.md %}
-{% include baidutongji.md %}
 {% include googleanalytics.md %}
