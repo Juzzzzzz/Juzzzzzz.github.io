@@ -1,7 +1,7 @@
 # Site settings
 title: Ju's Blog
 SEOTitle: Ju's Blog | 面条丶
-header-img: img/home-bg.jpg
+header-img: img/home-bg-op.jpg
 email: amistsss@163.com
 description: "喜欢吃面条的面条丶"
 keyword: ""
@@ -82,7 +82,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Li",
+        title: "Call_me",
         href: "#"
     },{
         title: "Foo",
@@ -91,7 +91,7 @@ friends: [
         title: "Bar",
         href: "#"
     },{
-        title: "Example Friends",
+        title: "Be_my_friends",
         href: "#"
     },{
         title: "It helps SEO",
