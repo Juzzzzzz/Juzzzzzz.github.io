@@ -17,7 +17,7 @@ tags:
 
 作者是[Allen Downey](http://www.allendowney.com)，写了不知道多少本`Think`系列的书，厉害！
 
-我呢，刚建好这个博客，在不知道写什么的时候就做做笔记什么的吧，贝叶斯的那一套以前总是觉得绕就一直逃避，现在权当鞭策自己吧。《贝叶斯思维》这本书里用到的代码在[这里](https://github.com/AllenDowney/ThinkBayes)可以Fork或Clone。
+我呢，刚建好这个博客，在不知道写什么的时候就做做笔记什么的吧，贝叶斯的那一套以前总是觉得绕就一直逃避，现在权当鞭策自己吧。《贝叶斯思维》这本书里用到的代码可以在[这里](https://github.com/AllenDowney/ThinkBayes)Fork或Clone。
 
 > 开始吧！
 
