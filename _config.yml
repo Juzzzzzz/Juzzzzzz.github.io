@@ -82,19 +82,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Call_me",
+        title: "马小云",
+        href: "https://www.taobao.com"
+    },{
+        title: "李小宏",
+        href: "https://www.baidu.com"
+    },{
+        title: "马小腾",
+        href: "http://www.qq.com"
+    },{
+        title: "还有你",
         href: "#"
     },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Be_my_friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
+        title: "And You",
         href: "#"
     }
 ]
