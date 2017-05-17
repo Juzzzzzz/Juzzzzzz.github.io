@@ -94,7 +94,10 @@ friends: [
         title: "还有你",
         href: "#"
     },{
-        title: "And You",
-        href: "#"
+        title: "演说.io",
+        href: "https://yanshuo.io"
+    },{
+        title: "娱票儿",
+        href: "https://piaofang.wepiao.com"
     }
 ]
