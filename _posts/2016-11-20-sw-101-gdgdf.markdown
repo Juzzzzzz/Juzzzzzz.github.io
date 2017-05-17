@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "Service Worker 101「GDG DevFest 2016 北京」"
 subtitle:   "Slides: Service Worker 101, Working Offline and Instant Loading (GDG DevFest 2016 Beijing)"
-iframe:     "//noodler.xyz/js-module-7day/"
+iframe:     "slides/test.html/"
 navcolor:   "invert"
 date:       2016-11-20
 author:     "Hux"
