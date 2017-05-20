@@ -4,7 +4,7 @@ title:      "在JuliaBox里运行R"
 subtitle:   "不用烧电脑了orz"
 date:       2017-05-20 12:00:00
 author:     "Ju"
-header-img: "img/post-bg-lofter004.jpg"  ！
+header-img: "img/post-bg-lofter004.jpg" 
 tags:
     - 日志
     - R
