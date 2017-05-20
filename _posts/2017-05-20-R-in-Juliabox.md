@@ -90,7 +90,7 @@ system.time(source("DCC_GI.R"))
 
 ---
 
-![(http://ooyw340iz.bkt.clouddn.com/image/rinjuliabox/juliabox006.png)]
+![](http://ooyw340iz.bkt.clouddn.com/image/rinjuliabox/juliabox006.png)
 
 跑了120组，用了将近45分钟...
 
