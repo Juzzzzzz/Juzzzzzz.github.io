@@ -37,7 +37,7 @@ DCC要用`R`跑，跑一个DCC还是要个几秒的，要是跑几百个也是�
 
 [<center><big> JuliaBox </big></center>](https://www.juliabox.com) 
 
-** <center> Run Julia from the Browser. No setup.</center> **
+<center> ** Run Julia from the Browser. No setup.** </center> 
 
 ---
 
