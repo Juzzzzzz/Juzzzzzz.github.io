@@ -13,7 +13,7 @@ tags:
 
 ## **写论文！**
 
-DCC模型的论文基本烂大街了，没法用啦！！
+`DCC模型`的论文基本烂大街了，没法用啦！！
 
 但是呢，想不出题的时候看看两个资产收益率的条件动态相关系数变化没准就会发现点什么问题。
 
@@ -35,6 +35,17 @@ DCC要用`R`跑，跑一个DCC还是要个几秒的，要是跑几百个也是�
 [<center><big> JuliaBox </big></center>](https://www.juliabox.com) 
 
 [<center># JuliaBox </center>](https://www.juliabox.com) 
+
+<h1> [<center> JuliaBox </center>](https://www.juliabox.com) </h1>
+
+# 啊
+## 啊
+### 啊
+#### 啊
+##### 啊
+###### 啊
+####### 啊
+
 
 
 
