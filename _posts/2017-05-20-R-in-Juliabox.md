@@ -32,7 +32,7 @@ DCC要用`R`跑，跑一个DCC还是要个几秒的，要是跑几百个也是�
 ![](dn001.jpg)
 
 
-<center><big> [JuliaBox](https://www.juliabox.com) </big></center>
+[<center><big> JuliaBox </big></center>](https://www.juliabox.com) 
 
 
 
