@@ -36,7 +36,12 @@ DCC要用`R`跑，跑一个DCC还是要个几秒的，要是跑几百个也是�
 
 [<center># JuliaBox </center>](https://www.juliabox.com) 
 
- [<h1> <center> JuliaBox </center> </h1>](https://www.juliabox.com) 
+[<h1> <center> JuliaBox </center> </h1>](https://www.juliabox.com) 
+
+<h1> <center> [JuliaBox ](https://www.juliabox.com) </center> </h1>
+
+[<center><font size=1em> JuliaBox </font></center>](https://www.juliabox.com) 
+
 
 # 啊
 ## 啊
