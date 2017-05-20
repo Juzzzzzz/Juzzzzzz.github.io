@@ -27,30 +27,43 @@ DCC要用`R`跑，跑一个DCC还是要个几秒的，要是跑几百个也是�
 
 部署阿里云什么的我没有账号呀！我也不会！
 
+---
+
 ## **怎么办？**
 
 ![](dn001.jpg)
 
+---
 
 [<center><big> JuliaBox </big></center>](https://www.juliabox.com) 
 
-[<center># JuliaBox </center>](https://www.juliabox.com) 
+** <center> Run Julia from the Browser. No setup.</center> **
 
-[<h1> <center> JuliaBox </center> </h1>](https://www.juliabox.com) 
+---
 
-<h1> <center> [JuliaBox ](https://www.juliabox.com) </center> </h1>
+`JuliaBox`不仅可以让你在网页上做`Julia`的`Jupyter Notebooks`，它还提供一个`Linux Terminal`的`Console`，里面可以运行各种很多语言，比如`Julia`、`R`、`Python2`、`Python3`，而且里面都装好了，可能是因为要让`Julia`成为`胶水`吧...
 
-[<center><font size=1em> JuliaBox </font></center>](https://www.juliabox.com) 
+> 开始吧！！
 
+先把`R`的程序和数据准备好，压缩到一个`zip`文件里。
 
-# 啊
-## 啊
-### 啊
-#### 啊
-##### 啊
-###### 啊
-####### 啊
+![](juliabox001.png)
+![](juliabox002.png)
 
+登录`JuliaBox`，把刚刚那个压缩包上传到一个文件夹里。
+
+![](juliabox003.png)
+
+然后进入`Console`，界面是这样的：
+
+![](juliabox004.png)
+
+解压：
+
+```
+juser@juliabox:~$ cd R_zzz/  
+juser@juliabox:~/R_zzz$ unzip DCC_xxx.zip                                                        
+```
 
 
 
