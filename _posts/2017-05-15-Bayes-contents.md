@@ -22,8 +22,8 @@ tags:
 > 开始吧！
 
 
-1. [贝叶斯定理](http://www.noodler.xyz/2017/05/16/Bayes001/)
-1. [贝叶斯定理](http://www.noodler.xyz/2017/06/05/Bayes002/)
+1. [贝叶斯定理](http://note.noodler.xyz/2017/05/16/Bayes001/)
+1. [贝叶斯定理](http://note.noodler.xyz/2017/06/05/Bayes002/)
 
 
 
