@@ -43,8 +43,8 @@ devtools::install_github("Juzzzzzz/spmat4stata")
 包内我内置了一个通过世界地图做的一个国家和地区的空间权重Queen邻接矩阵（queen_long），可以用来做一下测试：
 
 ```R
-long2mat(data_long = queen_long, country_id = "Country ISO3 Code",  
-         counter_id = "Counterpart Country ISO3 Code", contiguity = "Contiguity",  
+long2mat(data_long = queen_long, country_id = "Country ISO3 Code",
+         counter_id = "Counterpart Country ISO3 Code", contiguity = "Contiguity",
          id_is_int = FALSE, W_style = "W")
 ```
 
