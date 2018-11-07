@@ -11,7 +11,7 @@ tags:
 
 > “好吃！！！ ”
 
-![](http://ooyw340iz.bkt.clouddn.com/chengdu1705/tsm.JPG?imageMogr2/auto-orient/blur/1x0/quality/75%7Cimageslim)
+![](https://coco-1253659112.cos.ap-beijing-1.myqcloud.com/ju-blog/chengdu1705/tsm.JPG)
 
 
 　　今天终于把`GitHub`博客弄好了，中途虽遇到很多问题但终于是能用了，感谢[Hux](https://github.com/huxpro)的对[Clean Blog Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)的深度修改。

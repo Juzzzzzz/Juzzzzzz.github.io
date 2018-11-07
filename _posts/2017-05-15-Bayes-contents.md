@@ -13,7 +13,7 @@ tags:
 
 翻出了一本去年买的书，就是这本：
 
-![](http://ooyw340iz.bkt.clouddn.com/image/bayes/book.png)
+![](https://coco-1253659112.cos.ap-beijing-1.myqcloud.com/ju-blog/image/bayes/book.png)
 
 作者是[Allen Downey](http://www.allendowney.com)，写了不知道多少本`Think`系列的书，厉害！
 
